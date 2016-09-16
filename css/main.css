@@ -1,0 +1,80 @@
+header {
+	background-color: #037F99;
+}
+
+
+h1,h3 {
+	font-family: 'Baloo Paaji', cursive;
+	color: #EC7675;
+}
+
+.uno {
+	color: white;
+}
+
+.dos {
+	color: #EC7675;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	margin-left: 20px
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Prompt', sans-serif;
+	color: white;
+}
+
+p {
+	font-family: 'Prompt', sans-serif;
+}
+
+.softbunny {
+	background-image: url(../img/img-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+	max-width: 900px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.soft {
+	height: 300px;
+	width: 700px;
+	background-color: rgba(3, 127, 153, 0.5);
+}
+
+.tales {
+	background-color: #037F99;
+	width: 19%;
+	height: 20%;
+	margin: 1%;
+	
+}
+
+.parrafo-tales {
+	text-align: center;
+	color: white;
+	font-size: 13px;
+}
+
+.fondo-blanco {
+	background-color: white;
+}
+
+.conejo5 {
+	width: 500px;
+	height: 308px;
+}
+
+.video {
+	width: 500px;
+	height: 308px;
+}
+
