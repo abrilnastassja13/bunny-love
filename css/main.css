@@ -3,6 +3,8 @@
 	padding: 4px;
 	border: 0;
 	box-sizing: border-box;
+	width: 100%;
+	height: auto;
 }
 
 /*h1,h3,h4 {
@@ -15,10 +17,7 @@ nav {
   box-shadow: none;
 }
 
-img {
-	width: 100%;
-	height: auto;
-}
+
 
 table {
 	border-collapse:collapse;
@@ -38,7 +37,7 @@ table {
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 500px;
-	max-width: 937px;
+	max-width: 900px;
 	margin: auto;
 	display: flex;
 	justify-content: center;
