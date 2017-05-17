@@ -1,11 +1,28 @@
-h1,h3,h4 {
+.cuatro-conejitos {
+	margin: 0;
+	padding: 4px;
+	border: 0;
+	box-sizing: border-box;
+}
+
+/*h1,h3,h4 {
 	font-family: 'Baloo Paaji', cursive;
 	color: #EC7675;
-}
+}*/
 
 nav {
   background-color: #037F99;
   box-shadow: none;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
 }
 
 .uno {
@@ -16,16 +33,12 @@ nav {
 	color: #EC7675;
 }
 
-
-
-
-
 .softbunny {
 	background-image: url(../img/img-1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 500px;
-	max-width: 900px;
+	max-width: 937px;
 	margin: auto;
 	display: flex;
 	justify-content: center;
@@ -50,13 +63,12 @@ nav {
     color: white;
 }
 
-.tales {
+/*.tales {
 	background-color: #037F99;
 	width: 21%;
 	height: 20%;
 	margin: 2% 1%;
-	
-}
+}*/
 
 .titulo-tales {
 	text-align: center;
@@ -68,14 +80,6 @@ nav {
 	color: white;
 	font-size: 13px;
 	margin: 5% 15%;
-}
-
-.fondo-blanco {
-	background-color: white;
-}
-
-.fondo-azul {
-	background-color: #037F99;
 }
 
 .conejo5 {
